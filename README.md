@@ -1,6 +1,6 @@
-- 👋 Oi, sou bernardo Uriel
+- 👋 Oi, sou bernardo uriel
 - 👀 Atualmente estudando 
 - 🌱 estudo no colégio
-- 💞️ é isso ai
+-  é isso ai
 - 📫 sim
 
